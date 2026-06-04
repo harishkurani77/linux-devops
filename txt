@@ -6,6 +6,7 @@ public static void main(String[] args){
 Registration registration = new Registration();
 
 int result = registration.sum(10,20);
+System.out.println(result);
 
 System.out.println("hii harish kurani");
 }
