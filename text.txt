@@ -1,0 +1,7 @@
+public class Test {
+public Stric void main(String args[]){
+Test test = new Test();
+}
+public void test1(){
+System.out.println("testing complete");
+}
