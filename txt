@@ -1,7 +1,20 @@
 public class Registration {
- 
-public static void main(String[] args)
+ int a = 10;
+ int b = 20;
+public static void main(String[] args){
+
+Registration registration = new Registration();
+
+int result = registration.sum(10,20);
 
 System.out.println("hii harish kurani");
+}
+
+public int sum(int a, int b){
+
+sum = a+b;
+return sum;
+
+}
 }
 
